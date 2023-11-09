@@ -2,16 +2,16 @@
 Simple Local CRUD using Rust + PSQL + Docker + Postman
 
 ## Docker Init
-![rust1](./r1)
+![docker](./r1)
 ## PSQL Init
-![rust1](./r2)
+![psql](./r2)
 ## Get Initial Table
-![rust1](./r3)
+![table](./r3)
 ## Create
-![rust1](./rCreate)
+![create](./rCreate)
 ## Read
-![rust1](./rRead)
+![read](./rRead)
 ## Update
-![rust1](./rupdate)
+![update](./rupdate)
 ## Delete
-![rust1](./rdeleteTwo)
+![del](./rdeleteTwo)
