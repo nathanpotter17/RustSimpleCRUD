@@ -10,8 +10,8 @@ Simple Local CRUD using Rust + PSQL + Docker + Postman
 ## Create
 ![create](./rCreate.png)
 ## Read
-![read](./rRead.png)
+![read](./rRea.png)
 ## Update
-![update](./rupdate.png)
+![update](./rupdat.png)
 ## Delete
-![del](./rdeleteTwo.png)
+![del](./rdelete.png)
